@@ -17,7 +17,7 @@ This repository contains various hello world examples using JavaCPP and JNI. Eac
 
 - [manual](manual/readme.md)
   - A JavaCPP example that uses the `javacpp.jar` directly without relying on a build system like Gradle or Maven. It demonstrates how to manually set up and use JavaCPP.
-  - Note this example is currently broken.
+  - The example is based on the official [mapping recipes wiki page](https://github.com/bytedeco/javacpp/wiki/Mapping-Recipes#introduction)
 
 ## Getting Started
 
